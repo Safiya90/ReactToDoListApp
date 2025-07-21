@@ -1,6 +1,6 @@
 # 📘 React Beginner Guide
 
-Welcome to the **React Beginner Guide**! This guide walks you through React's fundamentals step-by-step, using clear examples and practical explanations — perfect for beginners.
+Welcome to the **React Beginner Guide**! This guide walks you through React's fundamentals step by step, using clear examples and practical explanations perfect for beginners.
 
 ---
 
