@@ -243,7 +243,7 @@ Tailwind CSS
 ## ▶️ Getting Started
 To run this project locally:
 # Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Safiya90/ReactToDoListApp.git
 cd todo-app
 
 # Install dependencies
