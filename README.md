@@ -214,9 +214,45 @@ Use both `Context` and `Reducer` together to build global state managers.
 
 ---
 
-## ✅ You're Ready!
+## ✅ Project: React To-Do List App
 
-From here you can:
-- Build a Todo App
-- Learn routing with `react-router-dom`
-- Manage global state using tools like Redux or Zustand
+This repository contains a simple and responsive To-Do List Application built using React and Tailwind CSS.
+
+---
+
+## 🚀 Features
+Add, delete, and mark tasks as completed
+
+Responsive user interface
+
+Clean and minimal design
+
+Real-time task updates using React state
+
+---
+
+## 📦 Technologies Used
+React
+
+Vite
+
+Tailwind CSS
+
+---
+
+## ▶️ Getting Started
+To run this project locally:
+# Clone the repository
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+Then open your browser at http://localhost:5173
+
+نسخ
+تحرير
