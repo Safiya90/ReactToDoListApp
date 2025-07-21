@@ -1,4 +1,4 @@
-# 📘 React Beginner Guide (Based on [react.dev/learn](https://react.dev/learn))
+# 📘 React Beginner Guide
 
 Welcome to the **React Beginner Guide**! This guide walks you through React's fundamentals step-by-step, using clear examples and practical explanations — perfect for beginners.
 
